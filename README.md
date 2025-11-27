@@ -176,21 +176,5 @@ The real-time functionality is powered by the following core Socket.IO events:
 | `send-message`    | Client  | `{ roomId, username, message }`                    | Sends a chat message.                           |
 | `receive-message` | Server  | `(Same as above)`                                  | Broadcasts a chat message to the room.          |
 
----
-
-## 📷 Screenshots
-
-![image](https://github.com/user-attachments/assets/181cfb29-9a38-4f02-8bf0-a1b5689be68a)
 
 
-
-![image](https://github.com/user-attachments/assets/ce33011b-ecd4-4217-93f5-4a5f73e8332f)
-
----
-
-## 👨‍💻 Author
-**Ishu Raj Gupta**
-
-📧 [Email](mailto:ishuraj5963@gmail.com)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ishu-raj-gupta-7873072a3/)
